@@ -1,4 +1,3 @@
 # Dailyciousdabba
 
-[![Dailyciousdabba](https://github.com/dailyciousdabba/welcome/blob/main/welcome-dabba.png)](https://www.dailyciousdabba.tech/join-beta)
-
+[![Dailyciousdabba](https://github.com/dailyciousdabba/dailyciousdabba/blob/main/welcome-dabba.png)](https://www.dailyciousdabba.tech/join-beta)
