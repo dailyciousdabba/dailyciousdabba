@@ -2,6 +2,8 @@
 
 [![Dailyciousdabba](https://github.com/dailyciousdabba/dailyciousdabba/blob/main/welcome-dabba.png)](https://www.dailyciousdabba.tech/join-beta)
 
+
+
 ### Connect with us on: 
 <table>
     <div align="center m-5" >
@@ -11,4 +13,4 @@
       </div>                                                                                                                 
 </table>
 <br>
-[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:dailyciousdabba@gmail.com)
+
